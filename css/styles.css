@@ -12,12 +12,23 @@ h1, h2 {
   font-weight: 400;
   font-size: 200px;
 }
+h3 {
+  font-weight: 200;
+  font-size: 50px;
+  text-align: center;
+}
 
 /* TODO: Styling by id: add styling for #title */
 #title {
   color: #FC8C93;
   line-height: 50px;
+  margin: 100px auto 50px auto;
 }
+#instruccions {
+  color: #FFFFFF;
+  margin: 30px auto 30px auto;
+}
+
 
 #question {
   display: inline;
